@@ -11,6 +11,10 @@ To use the Data Encryption Standard (DES) algorithm for a practical application,
 3. DES has a 64-bit key, but only 56 bits are used for encryption (the remaining 8 bits are for parity).
 4. DES applies initial and final permutations along with 16 rounds of substitution and permutation transformations to produce ciphertext.
 
+
+## Name: Bhuvaneshwaran TU
+## Register number: 212224040049
+
 ## Program:
 ```
 #include <stdio.h>
